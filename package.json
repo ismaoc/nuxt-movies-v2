@@ -23,6 +23,8 @@
     "@iconify-json/mdi": "^1.2.3",
     "@unocss/nuxt": "^66.2.0",
     "@unocss/preset-icons": "^66.2.0",
+    "@unocss/preset-wind4": "^66.2.0",
+    "@vueuse/core": "^13.3.0",
     "unocss": "^66.2.0"
   }
 }
